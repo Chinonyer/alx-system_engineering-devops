@@ -1,2 +1,1 @@
-SHELL BASICS
-ALX
+shell basics
